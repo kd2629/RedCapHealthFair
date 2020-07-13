@@ -900,7 +900,7 @@
         "field_annotation": null
     },
     {
-        "field_name": "reason_notscreened",
+        "field_name": "women_ipv_reason",
         "form_name": "womens_health",
         "section_header": null,
         "field_type": "notes",
@@ -940,7 +940,7 @@
         "field_annotation": null
     },
     {
-        "field_name": "ipv_resources_provided",
+        "field_name": "women_ipv_resources",
         "form_name": "womens_health",
         "section_header": null,
         "field_type": "yesno",

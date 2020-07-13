@@ -200,6 +200,26 @@
         "field_annotation": null
     },
     {
+        "field_name": "reason_notscreened_2",
+        "form_name": "mens_health",
+        "section_header": null,
+        "field_type": "notes",
+        "field_label": "Reason patient not screened",
+        "select_choices_or_calculations": null,
+        "field_note": null,
+        "text_validation_type_or_show_slider_number": null,
+        "text_validation_min": null,
+        "text_validation_max": null,
+        "identifier": null,
+        "branching_logic": "[male_partner_violence] = '3'",
+        "required_field": null,
+        "custom_alignment": null,
+        "question_number": null,
+        "matrix_group_name": null,
+        "matrix_ranking": null,
+        "field_annotation": null
+    },
+    {
         "field_name": "men_ipv_plan",
         "form_name": "mens_health",
         "section_header": null,
@@ -220,7 +240,7 @@
         "field_annotation": null
     },
     {
-        "field_name": "ipv_resources_provided2",
+        "field_name": "men_ipv_resources",
         "form_name": "mens_health",
         "section_header": null,
         "field_type": "yesno",
